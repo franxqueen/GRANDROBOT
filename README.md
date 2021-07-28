@@ -1,6 +1,6 @@
 # TALENTED OFFICIAL
 
-DEPLOY HERE - [TALENTED MANAGER](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ffranxqueen22%2Ftalented bot&template=https%3A%2F%2Fgithub.com%2Ffranxqueen22%2Ftalented bot)
+DEPLOY HERE - [TALENTED MANAGER](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ffranxqueen22%2Ftalentedbot&template=https%3A%2F%2Fgithub.com%2Ffranxqueen22%2Ftalented bot)
 [.](https://heroku.com/deploy)
 Credits - [franxqueen(https://t.me/franxqueen)
 
