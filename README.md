@@ -1,11 +1,11 @@
-# GRAND OFFICIAL
+# TALENTED OFFICIAL
 
-DEPLOY HERE - [GRAND OFFICIAL](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT)
+DEPLOY HERE - [TALENTED MANAGER](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ffranxqueen22%2FTALENTEDbot&template=https%3A%2F%2Fgithub.com%2Ffranxqueen22%2FTALENTEDBOT)
 [.](https://heroku.com/deploy)
-Credits - [LEGEND X](https://t.me/legendx22)
+Credits - [FRANXQUEEN](https://t.me/FRAN_X_QUEEN  )
 
 # TELEGRAM
-Check me on [TELEGRAM](https://t.me/grand50_bot)
+Check me on [TELEGRAM](https://t.me/fran_x_queen)
 # TUTORIAL [OFFICIAL VIDEO](https://youtu.be/JK9cLTDZUR0)
 
 <details>
